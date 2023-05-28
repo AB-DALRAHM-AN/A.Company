@@ -1228,6 +1228,7 @@ ul {
 .events .container .subscribe form input:first-child {
   padding: 20px;
   border-radius: 30px;
+  outline-color: var(--main-color);
   border: none;
   width: 100%;
   font-size: 17px;
